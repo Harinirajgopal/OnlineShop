@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "combo cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP._J339YIYIt25iVotUFUO2AHaKS?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 2,
+      "title": "combo cosmetics",
+      "Img":"https://i.pinimg.com/originals/d1/1b/af/d11baf1b717af29d913647b6eb0a0930.jpg",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 3,
+      "title": "combo cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP.grhNDUkImMmGd28tsWb30AHaE8?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 4,
+      "title": "combo cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP._J339YIYIt25iVotUFUO2AHaKS?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 5,
+      "title": "combo cosmetics",
+      "Img":"https://i.pinimg.com/originals/d1/1b/af/d11baf1b717af29d913647b6eb0a0930.jpg",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 6,
+      "title": "combo cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP.grhNDUkImMmGd28tsWb30AHaE8?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 7,
+      "title": "combo cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP._J339YIYIt25iVotUFUO2AHaKS?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 8,
+      "title": "combo cosmetics",
+      "Img":"https://i.pinimg.com/originals/d1/1b/af/d11baf1b717af29d913647b6eb0a0930.jpg",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 9,
+      "title": "combo cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP.grhNDUkImMmGd28tsWb30AHaE8?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    }
+  ],
+  "Cart": [
+    {
+      "id": 1,
+      "title": "combo cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP._J339YIYIt25iVotUFUO2AHaKS?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 2,
+      "title": "combo cosmetics",
+      "Img":"https://i.pinimg.com/originals/d1/1b/af/d11baf1b717af29d913647b6eb0a0930.jpg",
+      "Price": 1500,
+      "quantity":"10"
+    }
+  ]
+  
+}
